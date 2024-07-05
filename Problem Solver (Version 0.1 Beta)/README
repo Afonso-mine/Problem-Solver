@@ -11,3 +11,22 @@ The websites are located on the storage so you can use this application offline.
 
 Instalation:
 To run the program you have to install python 3 (or newer versions).
+
+Windows -
+
+1. Go to python.org/downloads/
+2. Download python for Windows
+3. Run The instalation program
+
+Linux -
+
+1. open Terminal
+2. $ sudo apt-get install software-properties-common
+3. $ sudo add-apt-repository ppa:deadsnakes/ppa
+4. $ sudo apt-get update
+5. $ sudo apt-get install python3.8
+
+Utilization:
+
+1. Open a console window in the Problem Solver '(Version 0.1 Beta)' folder.
+2. $ python3 main.py
